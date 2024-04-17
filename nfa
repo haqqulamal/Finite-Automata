@@ -1,0 +1,5 @@
+digraph {
+	q0
+	q0 -> q1 [label=a]
+	q1 [shape=doublecircle]
+}
